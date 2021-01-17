@@ -1,0 +1,3 @@
+[submodule "iOS_App/ActionGame"]
+	path = iOS_App/ActionGame
+	url = https://github.com/ryomiyazawa/Swift5
